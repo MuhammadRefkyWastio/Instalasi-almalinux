@@ -10,7 +10,9 @@ NIM : 09030582024030
 4. mkdir: Membuat direktori baru.
 5. mv: Memindahkan file atau direktori.
 
+
 ![alt text](https://github.com/MuhammadRefkyWastio/tugasPSO/blob/main/50command/Screenshot%202024-04-30%20112818.png?raw=true)
+
 6. rmdir : menghapus direktori 
 7. rm : Menghapus file
 8. head  : Menampilkan baris awal dari file.
@@ -18,13 +20,17 @@ NIM : 09030582024030
 10. grep :  Mencari pola dalam file.
 
 ![alt text](https://github.com/MuhammadRefkyWastio/tugasPSO/blob/main/50command/Screenshot%202024-04-30%20112207.png?raw=true)
+
 11. ping : Menguji koneksi jaringan ke tujuan tertentu.
 12. chmod : Mengubah izin akses file atau direktori.
 13. date : Menampilkan atau mengatur waktu dan tanggal sistem.
 14. uptime : Menampilkan berapa lama sistem telah berjalan
 15. cat : Menampilkan isi dari file.
 
+
 ![alt text](https://github.com/MuhammadRefkyWastio/tugasPSO/blob/main/50command/Screenshot%202024-04-30%20112337.png?raw=true)
+
+
 16. who :  Menampilkan pengguna yang saat ini login.
 17. w : Menampilkan informasi tentang pengguna yang sedang login.
 18. uname : Menampilkan informasi kernel sistem.
@@ -32,6 +38,8 @@ NIM : 09030582024030
 20. ps : Menampilkan daftar proses yang sedang berjalan.
 
 ![alt text](https://github.com/MuhammadRefkyWastio/tugasPSO/blob/main/50command/Screenshot%202024-04-30%20113250.png?raw=true)
+
+
 21. chmod u+x : Mengubah izin akses untuk file agar dapat dieksekusi oleh pemiliknya:
 22. chmod a+x : memberikan izin eksekusi kepada semua pengguna (pemilik, grup, dan pengguna lain) pada suatu file atau direktori.
 23. chmod g-r : Menghapus izin akses untuk grup pada file:
@@ -44,6 +52,8 @@ NIM : 09030582024030
 30. chmod go-r file.txt : Mengubah izin akses untuk file sehingga hanya pemiliknya yang dapat membacanya:
 
 ![alt text](https://github.com/MuhammadRefkyWastio/tugasPSO/blob/main/50command/Screenshot%202024-04-30%20120231.png?raw=true)
+
+
 31. sudo : Menjalankan perintah dengan hak akses superuser.
 32. su : Mengganti pengguna atau masuk sebagai superuser.
 33. chown : Mengubah kepemilikan file atau direktori.
@@ -51,6 +61,8 @@ NIM : 09030582024030
 35. scp: Menyalin file melalui Secure Copy Protocol.
 
 ![alt text](https://github.com/MuhammadRefkyWastio/tugasPSO/blob/main/50command/Screenshot%202024-04-30%20120525.png?raw=true)
+
+
 36. tar : Mengompres dan mengekstrak arsip.
 37. zip : Mengompres file atau direktori menjadi format zip.
 38. unzip : Mengekstrak file dari arsip zip.
@@ -58,6 +70,8 @@ NIM : 09030582024030
 40. du : Menampilkan penggunaan disk dari file atau direktori.
 
 ![alt text](https://github.com/MuhammadRefkyWastio/tugasPSO/blob/main/50command/Screenshot%202024-04-30%20120724.png?raw=true)
+
+
 41. df : Menampilkan ruang disk yang tersedia.
 42. top: Menampilkan proses yang sedang berjalan secara interaktif.
 43. ps: Menampilkan daftar proses yang sedang berjalan.
@@ -65,6 +79,8 @@ NIM : 09030582024030
 45. kill: Menghentikan proses yang sedang berjalan.
 
 ![alt text](https://github.com/MuhammadRefkyWastio/tugasPSO/blob/main/50command/Screenshot%202024-04-30%20121719.png?raw=true)
+
+
 46. echo : Menampilkan teks ke layar atau ke file.
 47. jobs: Menampilkan pekerjaan yang berjalan di latar belakang.
 48. history : Menampilkan riwayat perintah yang telah dieksekusi.
